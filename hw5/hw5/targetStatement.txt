@@ -1,0 +1,7 @@
+Rental Record for Ken Anderson
+	Life of Brian	9.5
+	Brazil	20.0
+	Snow White	3.0
+	Moulin Rouge	6.0
+Amount owed is 38.5
+You earned 5 frequent renter points
